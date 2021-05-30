@@ -30,7 +30,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.18</compatibilityMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
   <languages uuid="680c001b-0a01-4a2d-9a2d-26a9f75e689c">
     <name>Русский</name>
     <synonym>
@@ -41,4 +41,5 @@
   </languages>
   <commonCommands>CommonCommand.НайтиТоварыПоНазванию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.ПродажаТовара</documents>
 </mdclass:Configuration>
